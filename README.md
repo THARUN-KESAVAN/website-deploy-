@@ -1,3 +1,3 @@
-# Sample Application for AWS DevOps Course
+Practice repo 
 
 #updated this file
